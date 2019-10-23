@@ -1,5 +1,5 @@
 
-lion
-tiger
-leopard
-turtle
+lion red
+tiger blue
+leopard purple
+turtle yellow
