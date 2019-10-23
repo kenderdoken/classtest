@@ -4,4 +4,5 @@ buffalo
 tiger
 leopard
 turtle
+zebra is just a fancy horse
 moose
