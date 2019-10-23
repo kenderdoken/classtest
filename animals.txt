@@ -1,5 +1,7 @@
 
 lion
+buffalo
 tiger
 leopard
 turtle
+moose
