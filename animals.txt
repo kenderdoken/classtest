@@ -3,3 +3,5 @@ lion
 tiger
 leopard
 turtle
+Koala
+Giraffe
